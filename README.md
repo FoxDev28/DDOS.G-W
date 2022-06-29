@@ -1,2 +1,2 @@
 # DDOS.G-W
-Golden Worlf Tols
+Golden Worlf Tolls
