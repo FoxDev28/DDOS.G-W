@@ -1,4 +1,5 @@
 #Autor By Cyber
+#Reedit By FoxDev
 import random
 import socket
 import threading
