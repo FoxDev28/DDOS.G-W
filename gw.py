@@ -1,6 +1,6 @@
-# Encoded By PyEncryptor
-# A Product Of XRootSec
-# https://github.com/XRootSec
+# Tolls Official 
+# A Product Of FoxDev
+# NYARI APAAN SIH GAK ADA CODENYA HEHEHEHE
 
 import marshal, base64, zlib
 
